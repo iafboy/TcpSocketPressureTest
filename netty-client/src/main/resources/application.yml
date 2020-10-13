@@ -1,0 +1,10 @@
+server:
+  port: 8091
+
+spring:
+  application:
+    name: netty-client
+
+netty:
+  port: 21000
+  host: 140.238.224.90
